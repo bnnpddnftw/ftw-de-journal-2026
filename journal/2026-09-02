@@ -1,0 +1,16 @@
+# Journal - {{DATE}} - {{TOPIC OR DAY N}}
+
+## What I learned
+- How to clone a repository
+- "Copy" a file --> Copy Raw > go to target folder > paste
+
+## What confused me
+- Can't copy an .md file ? but need to copy the content and paste it all?
+
+## One small next step
+- [ ] Push a change
+
+## Git checkpoint
+- [x] I created or updated a file
+- [x] I wrote a commit
+- [ ] I pushed my changes
